@@ -1,0 +1,138 @@
+# Claude AI
+.claude/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# R
+.Rhistory
+.Rdata
+.Rproj.user/
+*.Rproj
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.temp
+.nova/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+_site/
+.quarto/
+_book/
+
+# Credentials and secrets
+*.pem
+*.key
+.env
+.env.local
+.env.*.local
+secrets/
+credentials/
+
+# Conference specific
+registration_data/
+sponsor_contracts/
+financial_reports/
+attendee_lists/
+*.csv
+*.xlsx
+private/
+confidential/
+
+# Backup files
+*.backup
+*.old
+backup/
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Media files (if large)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Temporary files
+tmp/
+temp/
+cache/
+.cache/
