@@ -174,7 +174,7 @@ The R Consortium:
 **Distribution**:
 - R-bloggers
 - R Consortium channels
-- Social media (#useR2025)
+- Social media (#useR[YEAR])
 - Academic mailing lists
 - Previous useR! attendee lists (if available)
 
@@ -233,3 +233,7 @@ With initial planning complete, proceed to:
 - [Venue & Logistics](02-venue-logistics.md) - Detailed venue planning
 - [Website Development](03-website-development.md) - Full website buildout
 - [Sponsorship](05-sponsorship.md) - Sponsor engagement strategy
+
+---
+
+**Navigation**: [← README](README.md) | [Venue & Logistics →](02-venue-logistics.md)

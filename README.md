@@ -4,6 +4,8 @@
 
 This comprehensive guide documents the process of planning and executing a useR! conference, based on the experience of organizing useR! 2025 at Duke University. The useR! conference is the annual international gathering of R users, bringing together academics, industry professionals, and students to share knowledge, innovations, and best practices in the R ecosystem.
 
+**Note**: This guide serves as a template. References to "useR! 2025" are provided as real-world examples. When planning your conference, replace [YEAR], [CITY], and other bracketed variables with your specific information.
+
 ## About useR! Conferences
 
 useR! conferences are typically 3-4 day events featuring:
@@ -45,7 +47,8 @@ This guide is organized into chronological sections covering all aspects of conf
 7. **[Catering & Hospitality](07-catering-hospitality.md)** - Food service and social events
 8. **[Committees & Volunteers](08-committees-volunteers.md)** - Organizing human resources
 9. **[Timeline & Checklist](09-timeline-checklist.md)** - Comprehensive task list in chronological order
-10. **[Lessons Learned](lessons-learned.md)** - Best practices and recommendations
+10. **[Virtual Conference](10-virtual-conference.md)** - Adding global accessibility through virtual options
+11. **[Lessons Learned](lessons-learned.md)** - Best practices and recommendations
 
 ## Key Success Factors
 

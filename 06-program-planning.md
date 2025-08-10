@@ -196,3 +196,6 @@ With program planned, proceed to:
 - [Catering & Hospitality](07-catering-hospitality.md) - Planning breaks and social events
 - [Committees & Volunteers](08-committees-volunteers.md) - Organizing session support
 - [Timeline & Checklist](09-timeline-checklist.md) - Integrating program milestones
+---
+
+**Navigation**: [← Sponsorship](05-sponsorship.md) | [Catering & Hospitality →](07-catering-hospitality.md)

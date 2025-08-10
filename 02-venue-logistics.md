@@ -308,3 +308,6 @@ With venue secured and configured, proceed to:
 - [Website Development](03-website-development.md) - Building online presence
 - [Registration & Payment](04-registration-payment.md) - Managing attendees
 - [Catering & Hospitality](07-catering-hospitality.md) - Food service planning
+---
+
+**Navigation**: [← Initial Planning](01-initial-planning.md) | [Website Development →](03-website-development.md)

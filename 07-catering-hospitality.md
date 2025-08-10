@@ -173,3 +173,6 @@ With catering planned, proceed to:
 - [Committees & Volunteers](08-committees-volunteers.md) - Who will manage catering logistics
 - [Timeline & Checklist](09-timeline-checklist.md) - Integrating catering deadlines
 - [Virtual Conference](10-virtual-conference.md) - No catering needed!
+---
+
+**Navigation**: [← Program Planning](06-program-planning.md) | [Committees & Volunteers →](08-committees-volunteers.md)

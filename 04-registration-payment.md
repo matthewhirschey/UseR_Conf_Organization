@@ -442,3 +442,6 @@ With registration systems in place, proceed to:
 - [Sponsorship](05-sponsorship.md) - Managing sponsor registrations
 - [Program Planning](06-program-planning.md) - Coordinating speaker registration
 - [Committees & Volunteers](08-committees-volunteers.md) - Managing staff registration
+---
+
+**Navigation**: [← Website Development](03-website-development.md) | [Sponsorship →](05-sponsorship.md)

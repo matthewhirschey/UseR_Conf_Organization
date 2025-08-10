@@ -415,3 +415,6 @@ Critical deadlines that cannot slip:
 
 With comprehensive timeline in hand, proceed to:
 - [Lessons Learned](lessons-learned.md) - Insights from useR! 2025 experience
+---
+
+**Navigation**: [← Committees & Volunteers](08-committees-volunteers.md) | [Virtual Conference →](10-virtual-conference.md)

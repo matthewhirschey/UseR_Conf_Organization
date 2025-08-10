@@ -359,3 +359,6 @@ Most importantly, enjoy the journey. The friendships formed, skills developed, a
 ---
 
 *This document represents insights from useR! 2025 planning and execution, combined with best practices from previous conferences. It should be updated and expanded by future organizing committees to maintain its relevance and value.*
+---
+
+**Navigation**: [← Virtual Conference](10-virtual-conference.md) | [README →](README.md)

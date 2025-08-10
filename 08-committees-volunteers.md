@@ -405,3 +405,6 @@ Tasks:
 With committees and volunteers organized, proceed to:
 - [Timeline & Checklist](09-timeline-checklist.md) - Comprehensive task timeline
 - [Lessons Learned](lessons-learned.md) - Committee insights and recommendations
+---
+
+**Navigation**: [← Catering & Hospitality](07-catering-hospitality.md) | [Timeline & Checklist →](09-timeline-checklist.md)

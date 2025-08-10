@@ -607,3 +607,6 @@ With sponsorship strategy defined, proceed to:
 - [Program Planning](06-program-planning.md) - Coordinating sponsored sessions
 - [Catering & Hospitality](07-catering-hospitality.md) - Planning sponsor events
 - [Timeline & Checklist](09-timeline-checklist.md) - Integrating sponsor milestones
+---
+
+**Navigation**: [← Registration & Payment](04-registration-payment.md) | [Program Planning →](06-program-planning.md)

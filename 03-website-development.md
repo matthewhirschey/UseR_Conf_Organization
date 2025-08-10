@@ -121,9 +121,9 @@ project:
   type: website
   
 website:
-  title: "useR! 2025"
+  title: "useR! [YEAR]"
   description: "International R User Conference"
-  site-url: "https://user2025.r-project.org"
+  site-url: "https://user[YEAR].r-project.org"
   
   navbar:
     logo: img/user-conf.png
@@ -303,7 +303,7 @@ Refactor: Sponsor page layout
 
 ### Domain Configuration
 
-**Setting up useR2025.r-project.org**:
+**Setting up useR[YEAR].r-project.org**:
 
 1. **Obtain Domain Access**
    - Contact R Consortium for subdomain
@@ -488,3 +488,6 @@ With website infrastructure in place, proceed to:
 - [Registration & Payment](04-registration-payment.md) - Setting up attendee management
 - [Program Planning](06-program-planning.md) - Developing conference content
 - [Sponsorship](05-sponsorship.md) - Promoting sponsorship opportunities online
+---
+
+**Navigation**: [← Venue & Logistics](02-venue-logistics.md) | [Registration & Payment →](04-registration-payment.md)

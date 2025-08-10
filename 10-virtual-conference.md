@@ -254,3 +254,6 @@ With virtual conference planned, consider:
 ## Conclusion
 
 A virtual conference component significantly extends the reach and impact of useR! while maintaining financial sustainability through optional solidarity payments. The pre-conference virtual event model, as demonstrated by useR! 2025, provides an elegant solution that enhances rather than competes with the in-person experience, ensuring the R community remains globally accessible and inclusive.
+---
+
+**Navigation**: [← Timeline & Checklist](09-timeline-checklist.md) | [Lessons Learned →](lessons-learned.md)
