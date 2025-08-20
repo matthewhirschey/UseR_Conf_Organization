@@ -33,31 +33,35 @@ Venue selection and configuration is one of the most critical and complex aspect
 - Robust WiFi supporting 400+ concurrent connections
 - Ethernet connections for streaming/recording
 - Power strips available for common areas
+- Power for sponsor and regisration check-in tables
 
 ## Case Study: Penn Pavilion Configuration (useR! 2025)
 
 ### Room Layout
 
 **Penn Pavilion Breakdown**:
-- **Penn 1**: 220 chairs - Main keynote/plenary room
-- **Penn 2**: 150 chairs - Large parallel session room
-- **Penn 3**: 8 chairs - Sponsor showcase/info desk (limited power)
-- **Lobby**: 4 chairs - Transit and networking space
-- **Penn Garden**: 92 chairs
+- **Room configuration**: Support for classroom (tables/chairs) and theater (chairs only) layouts
+- **Penn 1**: 310 chairs theater; 192 classroom - Main keynote/plenary room
+- **Penn 2**: 170 chairs theater; 105 classroom - Large parallel session room
+- **Penn 3**: 7 tables/2 chairs ea. - Sponsor tables (limited power)
+- **Lobby**: 3 tables, 6 chairs - Registration check-in and networking space
+- **Coffee/tea break area**: 3 tables
+- **Penn Garden**: 92 chairs theater; 54 classroom 
 - **Gross Hall**: Multiple rooms, used as additional and backup spaces
+- **Bostock Library The Edge**: Large classroom style room and small project rooms for R Dev Day
 
 ### Critical Lessons Learned
 
 **Reconfiguration Timing**:
 - Full reconfiguration of rooms requires **2-3 hours** clearing time
-- If Day 1 ends at 8 PM, and a room needds reconfiguraiton, Day 2 cannot start before 10:00 AM
+- If Day 1 ends at 8 PM, and a room needs reconfiguration, Day 2 cannot start before 10:00 AM
 - For 8 AM start time, previous day must end by 4 PM
 - Plan schedule around these constraints
 
 **Power Limitations**:
 - Penn 3 only has power in corners adjacent to Penn 1 & 2
-- Required creative positioning for sponsor booths
-- Registration desk positioned outside Penn 3 for better access
+- Required tech support to run power cords around room perimeter
+- Check-in tables positioned outside Penn 3 in lobby; also required power runs
 
 ## Venue Selection Process
 
@@ -88,8 +92,8 @@ Rate each venue on:
 ### Budget Considerations
 
 **Example from useR! 2025**:
-- Total venue cost: $9,949.00 from Campus Event Services (CES)
-- Includes basic setup and breakdown
+- Total venue cost: $10,427 from Conference & Event Services (CES)
+- Includes setup and breakdown of chairs/tables, linens, house AV, housekeeping
 - Additional AV services contracted separately
 - Consider 10-15% contingency for unexpected needs
 
@@ -124,24 +128,25 @@ Rate each venue on:
 
 - Finalize room assignments for all sessions
 - Create detailed floor plans
-- Order signage and wayfinding materials
+- Design wayfinding signage and map
 - Coordinate with AV providers
-- Plan registration desk setup
+- Plan check-in desk setup, materials
 
 ### 1 Month Before
 
 - Final walkthrough with venue staff
 - Confirm all equipment deliveries
 - Review setup/breakdown schedule
+- Print wayfinding signage
 - Brief volunteer assignments
 - Test all AV/technical systems
 - Confirm venue access for set-up and breakdown
 
 ### Week of Conference
 
-- **3 days before**: Begin material deliveries (e.g. sponsors, registration)
-- **2 days before**: Set up registration area and signage
-- **1 day before**: Full technical rehearsal
+- **3 days before**: Begin material deliveries (e.g. sponsors, registration) (2025: delivered sponsor materials day of)
+- **2 days before**: Set up check-in area (2025: had to be done morning of)
+- **1 day before**: Place wayfinding signage, run full technical rehearsal
 - **Morning of Day 1**: Final setup and systems check
 
 ## Contingency Planning
@@ -149,7 +154,7 @@ Rate each venue on:
 ### Common Issues and Solutions
 
 **Access and Overcrowding**:
-- Buildings can be locked on weekends
+- Buildings can be locked on weekends; coordinate access with building managers
 - Consider overflow rooms with video feeds
 - Have room monitors manage capacity
 - Livestream popular sessions
@@ -174,7 +179,7 @@ Rate each venue on:
 
 ### Key Relationships
 
-**Campus Event Services (or equivalent)**:
+**Conference & Event Services (or equivalent)**:
 - Primary venue contact
 - Coordinate all space needs
 - Handle setup/breakdown logistics
@@ -191,6 +196,7 @@ Rate each venue on:
 - Cleaning services
 - Emergency maintenance
 - Security coordination
+- All handled by CES in 2025
 
 ### Communication Best Practices
 
@@ -240,7 +246,7 @@ Establish central location with:
 ### Communication Systems
 
 - Group messaging (e.g. Slack)
-- One-on-one messaging (e.g. Mobile phones)
+- One-on-one messaging (e.g. mobile phones)
 - Information desk for attendees
 - Digital displays for updates
 
@@ -261,6 +267,7 @@ Establish central location with:
 - Coordinate vendor pickups
 - Clear lost and found
 - Final venue walkthrough
+- Collect and dispose of wayfinding signage
 
 ### Evaluation
 
@@ -280,7 +287,7 @@ Establish central location with:
 
 ### 6 Months Before
 - [ ] Finalize floor plans
-- [ ] Order signage
+- [ ] Develop wayfinding signage
 - [ ] Confirm vendor contracts
 - [ ] Plan setup schedule
 
@@ -289,12 +296,14 @@ Establish central location with:
 - [ ] Brief all vendors
 - [ ] Test technical systems
 - [ ] Finalize logistics timeline
+- [ ] Order signage
 
 ### Week of Event
 - [ ] Receive material deliveries
-- [ ] Set up registration area
+- [ ] Set up check-in area
 - [ ] Complete technical rehearsal
 - [ ] Brief venue staff
+- [ ] Place wayfinding signage
 
 ### Day of Event
 - [ ] Arrive early for final checks
