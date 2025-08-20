@@ -85,10 +85,10 @@ Selected August 8-10, 2025 (Friday-Sunday) because:
 
 - **Venue and facilities** (25-30% of budget)
 - **Catering** (30-35% of budget)
-- **Keynote speakers** (travel, accommodation, honoraria)
+- **Keynote speakers** (travel, accommodation, honoraria (none paid in 2025), gifts)
 - **Technology** (AV, streaming, website)
 - **Student support** (travel grants, reduced fees)
-- **Materials** (badges, programs, signage, swag)
+- **Materials** (badges, lanyards, signage, swag)
 - **Administration** (10-15% contingency recommended)
 
 ### Financial Controls
@@ -206,7 +206,7 @@ The R Consortium:
 
 Maintain records of:
 - All contracts and agreements
-- Budget anr finances
+- Budget and finances
 - Committee meeting minutes
 - Decision rationales
 - Correspondence with vendors and sponsors
