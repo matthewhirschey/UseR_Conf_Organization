@@ -39,7 +39,7 @@ Venue selection and configuration is one of the most critical and complex aspect
 
 ### Room Layout
 
-**Penn Pavilion Breakdown**:
+**Venues Breakdown**:
 - **Room configuration**: Support for classroom (tables/chairs) and theater (chairs only) layouts
 - **Penn 1**: 310 chairs theater; 192 classroom - Main keynote/plenary room
 - **Penn 2**: 170 chairs theater; 105 classroom - Large parallel session room
